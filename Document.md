@@ -17,7 +17,7 @@ The Laboratory (bacteriologist) wants a proper channel where can have a straight
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/master/Admin-dashboard.png)
 
 ### Doctor-dashboard
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/master/Doctor-Dashboard.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/master/Doctor_Dashboard.png)
 
 ### Bacteriologist-Dashboard
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/master/Bacteriologist-Dashboard.png)
@@ -34,7 +34,7 @@ This Web App allow an easy way to exchange the Results of exams Analysis.
 if the user ask for a no avaliable route link, the app pops an a 404 screen warning.
 
 ### What one-time operations are done at the First execution?
-
+It suppose 
 
 ### If the User creates any kind of entries, what are the limitations?
 
