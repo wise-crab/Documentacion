@@ -60,9 +60,11 @@ There are three roles playing in this project:
   ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/1df0bdb28d1a4d9bdf017f299ea5755e85b26257/screens/Dekstop_1366px_%3D_%E2%80%93_1.png)
 
   ### Admin:
-  - This profile must only be assigned to administrative personnel and it is who can get, create, delete and update the information from other users regardless of their role (including other administrators) to manage them. 
-
+  - This profile must only be assigned to administrative personnel and it is who can get, create, delete and update the information from other users regardless of their role (including other administrators) to manage them
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Dekstop_1366px_=_–_9.png)
+  
   - The admin can make a bulky upload from an .csv document to have multiple user's signs up log
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Carga_de_Usuarios.png)
 
   - Once an new user is created, he/she is going to receive an e-mail with his/her login credentials attached
 
@@ -77,8 +79,10 @@ There are three roles playing in this project:
   - Every user profile is secured with its password encrypted
 
   - Every user signs-in in the same Login screen in the Laboratory's website regardless its role
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/Dekstop_1366px_=.png)
 
   - Every single user in this app was signed-up by an Admin, it guarantees safety of DB content
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Dekstop_1366px_=_–_7.png)
 
 ## User Interface screens
 
