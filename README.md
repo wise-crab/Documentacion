@@ -22,27 +22,33 @@ There are three roles playing in this project:
   ### Patient:
   - The patient can get a display charts about their latest clinical examination performed, this documents include dates and are online
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=_–_3.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientScreens/Dekstop_1366px_=_–_3.png)
 
   - The patient can download the results in PDF format individually or select multiple results and download them together in the same document
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=_–_2.png)  
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientScreens/Dekstop_1366px_=_–_2.png)  
 
   - In case that the an examination's result is still not available, the patient gets the examination's names that he performed and are awaiting for the Bacteriologist's results, the app displays an inactive download icon  and an unavailability result indicator message
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Patient_Resultado_No_Disponible.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientScreens/Patient_Resultado_No_Disponible.png)
 
   ### Doctor:
   - The doctor gets a display of a search engine that let him/her search a patient by ID and view his/her contact deatils and medical history. In this screen, the doctor can link a clinical examination to a patient, the App provides to the Doctor a window that let him/her to select from a preloaded list the different clinical examinations he/she could perform and add them to the patient one by one
 
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Home.png)
+
   - This profile is up to set the clinical examinations that a patient must perform and link them in the system
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Detalle Paciente.png)
 
   - When the doctor links a clinical examination to a patient, the patient is already able to see these examination from his/her profile's home screen even in case the results are unavaliable
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Solicitud de Examen.png)
 
   - In case the patient has logged in at the time the exams are being linked to him/her, he/she receives a near-real-time notifications to refresh the app and right after be able to track them
+  ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/1df0bdb28d1a4d9bdf017f299ea5755e85b26257/screens/Dekstop_1366px_%3D_%E2%80%93_1.png)
 
   ### Bacteriologist:
   - This health professional's profile gets a search engine that allows to the Bacteriologist search patient by his/her ID and pops up a window that enables to the Bacteriologist enter the clinical exam's results' data linked to the selected patient
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/)
 
   - Once the results are available, these are available to be downloaded from the patient's profile
 
