@@ -51,7 +51,7 @@ There are three roles playing in this project:
 
   ### Bacteriologist:
   - This health professional's profile gets a search engine that allows to the Bacteriologist search patient by his/her ID and pops up a window that enables to the Bacteriologist enter the clinical exam's results' data linked to the selected patient
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/BacteriologistScreens/Dekstop_1366px =_–_11.png)
+  ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/master/screens/BacteriologistScreens/Dekstop_1366px_%3D_-_11.png.png)
 
   - Once the results are available, these are available to be downloaded from the patient's profile
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientScreens/Patient_Resultado_No_Disponible.png)
