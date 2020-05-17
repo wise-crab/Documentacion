@@ -39,11 +39,11 @@ There are three roles playing in this project:
 
   - This profile is up to set the clinical examinations that a patient must perform and link them in the system
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Detalle_Paciente.png)
+  ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/Cristian/screens/DoctorScreens/Detalle_Paciente.png)
 
   - When the doctor links a clinical examination to a patient, the patient is already able to see these examination from his/her profile's home screen even in case the results are unavaliable
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Solicitud_de_Examen.png)
+  ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/Cristian/screens/DoctorScreens/Solicitud_de_Examen.png)
 
   - In case the patient has logged in at the time the exams are being linked to him/her, he/she receives a near-real-time notifications to refresh the app and right after be able to track them
   
