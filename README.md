@@ -21,7 +21,7 @@ There are three roles playing in this project:
 
   ### Patient:
   - The patient can get a display charts about their latest clinical examination performed, this documents include dates and are online
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=_–_2.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientHome.png)
 
   - The patient can download the results in PDF format individually or select multiple results and download them together in the same document
 
