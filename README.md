@@ -21,16 +21,21 @@ There are three roles playing in this project:
 
   ### Patient:
   - The patient can get a display charts about their latest clinical examination performed, this documents include dates and are online
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientHome.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=_–_3.png)
 
   - The patient can download the results in PDF format individually or select multiple results and download them together in the same document
 
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=_–_2.png)  
+
   - In case that the an examination's result is still not available, the patient gets the examination's names that he performed and are awaiting for the Bacteriologist's results, the app displays an inactive download icon  and an unavailability result indicator message
 
-  ### Doctor:
-  - This profile is up to set the clinical examinations that a patient must perform and link them in the system
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Patient_Resultado_No_Disponible.png)
 
+  ### Doctor:
   - The doctor gets a display of a search engine that let him/her search a patient by ID and view his/her contact deatils and medical history. In this screen, the doctor can link a clinical examination to a patient, the App provides to the Doctor a window that let him/her to select from a preloaded list the different clinical examinations he/she could perform and add them to the patient one by one
+
+  - This profile is up to set the clinical examinations that a patient must perform and link them in the system
 
   - When the doctor links a clinical examination to a patient, the patient is already able to see these examination from his/her profile's home screen even in case the results are unavaliable
 
