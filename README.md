@@ -38,12 +38,15 @@ There are three roles playing in this project:
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Home.png)
 
   - This profile is up to set the clinical examinations that a patient must perform and link them in the system
+
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Detalle Paciente.png)
 
   - When the doctor links a clinical examination to a patient, the patient is already able to see these examination from his/her profile's home screen even in case the results are unavaliable
+
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Solicitud de Examen.png)
 
   - In case the patient has logged in at the time the exams are being linked to him/her, he/she receives a near-real-time notifications to refresh the app and right after be able to track them
+  
   ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/1df0bdb28d1a4d9bdf017f299ea5755e85b26257/screens/Dekstop_1366px_%3D_%E2%80%93_1.png)
 
   ### Bacteriologist:
