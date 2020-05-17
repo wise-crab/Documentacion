@@ -90,15 +90,15 @@ There are three roles playing in this project:
 
 ### Login:
   #### mobile < 479px
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Mobile_360px.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/Mobile_360px.png)
   #### 480px < Mobile < 767px
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/B_Mobile_480px-767px.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/B_Mobile_480px-767px.png)
   #### 768 < Tablets < 1023px
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Tablet_768px-1023px.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/Tablet_768px-1023px.png)
   #### 1024 < Laptops < 1364px
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Laptop_1024px-1365px.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/Laptop_1024px-1365px.png)
   #### 1365px < Desktops
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/Dekstop_1366px_=.png)
 
 
 ### Admin-dashboard
