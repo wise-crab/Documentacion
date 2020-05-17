@@ -51,7 +51,7 @@ There are three roles playing in this project:
 
   ### Bacteriologist:
   - This health professional's profile gets a search engine that allows to the Bacteriologist search patient by his/her ID and pops up a window that enables to the Bacteriologist enter the clinical exam's results' data linked to the selected patient
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/BacteriologistScreens/Dekstop 1366px = – 11.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/BacteriologistScreens/Dekstop_1366px =_–_11.png)
 
   - Once the results are available, these are available to be downloaded from the patient's profile
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientScreens/Patient_Resultado_No_Disponible.png)
@@ -79,9 +79,11 @@ There are three roles playing in this project:
   - Every user profile is secured with its password encrypted
 
   - Every user signs-in in the same Login screen in the Laboratory's website regardless its role
+
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Login/Dekstop_1366px_=.png)
 
   - Every single user in this app was signed-up by an Admin, it guarantees safety of DB content
+
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Dekstop_1366px_=_–_7.png)
 
 ## User Interface screens
@@ -150,19 +152,13 @@ There are three roles playing in this project:
   #### 1365px < Desktops
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/Dekstop_1366px_=_–_2.png)
 
-## Dependences
   
-
-
-
-
-This Web App allow an easy way to exchange the Results of exams Analysis.
-
 ### What are posible failure conditions and how the user could handle it?
 if the user ask for a no avaliable route link, the app pops an a 404 screen warning.
 
 ### What one-time operations are done at the First execution?
 
+## Dependences
 
 ### If the User creates any kind of entries, what are the limitations?
 
