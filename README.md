@@ -35,7 +35,13 @@ There are three roles playing in this project:
   ### Doctor:
   - The doctor gets a display of a search engine that let him/her search a patient by ID and view his/her contact deatils and medical history. In this screen, the doctor can link a clinical examination to a patient, the App provides to the Doctor a window that let him/her to select from a preloaded list the different clinical examinations he/she could perform and add them to the patient one by one
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/Home.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/engine_Dekstop_1366px.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/engineLaptop_1024px-1365px.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/engineB_Mobile_480px-767px.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/engineMobile_360px.png)
 
   - This profile is up to set the clinical examinations that a patient must perform and link them in the system
 
