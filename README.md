@@ -69,7 +69,15 @@ There are three roles playing in this project:
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Dekstop_1366px_=_–_9.png)
   
   - The admin can make a bulky upload from an .csv document to have multiple user's signs up log
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Carga_de_Usuarios.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Mobile_bulky_360px.png)
+  
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/B_Mobile_Bulky_480px-767px.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Laptop_bulky_1024px-1365px.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Dekstop_Bulky_1366px.png)
+
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/AdminScreens/Dekstop_Bulky_1366px.png)
 
   - Once an new user is created, he/she is going to receive an e-mail with his/her login credentials attached
 
@@ -123,7 +131,8 @@ if the user ask for a no avaliable route link, the app pops an a 404 screen warn
 
 
 
-# Statements
+# Questions
+  why is there a drop list in the bulky upload?
 
 
   
