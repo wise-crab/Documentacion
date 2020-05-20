@@ -62,7 +62,7 @@ There are three roles playing in this project:
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/BacteriologistScreens/progressDekstop1366px.png)
 
   - Once the results get an available status and in case the patient is logged in,the app notices to the patient from his/her profile that the clinical exam results are ready to be downloaded
-  ![UI](https://github.com/wise-crab/wise-crab.github.io/raw/1df0bdb28d1a4d9bdf017f299ea5755e85b26257/screens/Dekstop_1366px_%3D_%E2%80%93_1.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/PatientScreens/bellMobile480px-767px.png)
 
   ### Admin:
   - This profile must only be assigned to administrative personnel and it is who can get, create, delete and update the information from other users regardless of their role (including other administrators) to manage them
