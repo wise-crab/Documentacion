@@ -39,7 +39,7 @@ There are three roles playing in this project:
 
   - This profile is up to set the clinical examinations that a patient must perform and link them in the system
 
-  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/setLaptop_1024px-1365px.png)
+  ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/examAssignDekstop.png)
 
   ![UI](https://raw.githubusercontent.com/wise-crab/wise-crab.github.io/Cristian/screens/DoctorScreens/setMobile_360px_.png)
   
